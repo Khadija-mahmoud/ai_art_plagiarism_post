@@ -19,7 +19,7 @@ To really impress people, including my mom, I always engaged in multiple hobbies
 Considering I was a 9th grader presenting to other 9th graders a presentation with self-drawn images, everyone was impressed. All because of graphic art. Nowadays AI can easily generate such photos if you ask it to and way better quality. For example, if I were to ask an AI tool known as ChatGPT 4 to generate images explaing the same topics it generates the following images.
 
 <div align="center">
-  <img src="(https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/cd52423e-f9b8-4829-97e6-1b1e6cb1c506" alt="ChatGPT Generated Models" width="600" height="450">
+  <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/cd52423e-f9b8-4829-97e6-1b1e6cb1c506" alt="ChatGPT Generated Models" width="600" height="450">
 </div>
 
 Such complex photos! Maybe too detailed for 9th graders. Let’s ask chatGPT4 to simplify it for 9th graders. 
