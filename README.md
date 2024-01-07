@@ -29,5 +29,8 @@ Way better then that advanced version and mine. [ChatGPT 4]((https://openai.com/
 
 Kindly press on "AI Art History" to enter a page including a timeline of the history of AI Art.
 
+## [AI Art History]((https://khadija-mahmoud.github.io/AI_Art_Timeline/)https://khadija-mahmoud.github.io/AI_Art_Timeline/)
 
+
+ Thank you for tuning in the introduction to my blog, enter part 2 to give deeper into plagiarism issues with AI Art
  ## [Blog_test_2](blog.2.test.md) 
