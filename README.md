@@ -57,11 +57,12 @@ As of 2024, several AI art generators have gained popularity among users, each o
   * It allows users to generate artwork quickly and easily, with options to choose artistic styles and customize images within the Canva app.
 
 Each of these tools has its strengths and weaknesses, catering to different needs and preferences. Whether you are a professional artist, a hobbyist, or someone just looking to experiment with AI-generated art, these tools offer a range of options to explore.
+
 __Sources:__
-__[Design Shack](https://www.designshack.net)__
-__[Zapier](https://zapier.com/)__
-__[Neil Chase Film](https://neilchasefilm.com/)__
-__[ChatGPT4](https://openai.com/gpt-4)__
+* __[Design Shack](https://www.designshack.net)__
+* __[Zapier](https://zapier.com/)__
+* __[Neil Chase Film](https://neilchasefilm.com/)__
+* __[ChatGPT4](https://openai.com/gpt-4)__
 
 Thank you for tuning in the introduction to my blog, enter part 2 to dive deeper into plagiarism issues with AI Art
  ## [Blog_test_2](blog.2.test.md) 
