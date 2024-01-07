@@ -61,12 +61,6 @@ As of 2024, several AI art generators have gained popularity among users, each o
 
 Each of these tools has its strengths and weaknesses, catering to different needs and preferences. Whether you are a professional artist, a hobbyist, or someone just looking to experiment with AI-generated art, these tools offer a range of options to explore.
 
-__Sources:__
-* __[Design Shack](https://www.designshack.net)__
-* __[Zapier](https://zapier.com/)__
-* __[Neil Chase Film](https://neilchasefilm.com/)__
-* __[ChatGPT4](https://openai.com/gpt-4)__
-
 ## AI Art Generators Concerns 
 The issue of plagiarism in AI-generated art is a complex and evolving topic. AI art generators like DALL-E, Midjourney, and others, create artworks based on the vast amounts of data they have been trained on, which includes existing artworks and images. This raises several concerns and questions about originality, copyright, and artistic integrity:
 
@@ -87,6 +81,11 @@ In conclusion, while AI art generators open up new possibilities in the realm of
 
 Thank you for tuning in the introduction to my blog, enter part 2 to dive deeper into plagiarism issues with AI Art
 
- ## [Part 2: Controversies and Complaints](Part_2_Controversies_and_Complaints.md) 
+## [Part 2: Controversies and Complaints](Part_2_Controversies_and_Complaints.md) 
 
-## [HERE](https://www.youtube.com/watch?v=ZEGpWo7ethQ&ab_channel=MetroBoomin)
+
+__Sources:__
+* __[Design Shack](https://www.designshack.net)__
+* __[Zapier](https://zapier.com/)__
+* __[Neil Chase Film](https://neilchasefilm.com/)__
+* __[ChatGPT4](https://openai.com/gpt-4)__
