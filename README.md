@@ -16,14 +16,15 @@ To really impress people, including my mom, I always engaged in multiple hobbies
 
 Considering I was a 9th grader presenting to other 9th graders a presentation with self-drawn images, everyone was impressed. All because of graphic art. Nowadays AI can easily generate such photos if you ask it to and way better quality. For example, if I were to ask an AI tool known as ChatGPT 4 to generate an image explaining the fluid mosaic model of the cell membrane it generated such a photo.
 
+
 <div align="center">
-  <img src="![image](https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/b3c23436-d1ac-40b4-b24d-b891565a39a0)" alt="ChatGPT Fluid Mosaic Model Advanced" width="200" height="200">
+  <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/b3c23436-d1ac-40b4-b24d-b891565a39a0" alt="ChatGPT Fluid Mosaic Model Advanced" width="600" height="450">
 </div>
 
 What a complex photo. Maybe too detailed for 9th grades. Let’s ask chatGPT4 to simplify it to a photo easy to explain for 9th graders. 
 
 <div align="center">
-  <img src="![image](https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/c1468988-4aa0-4c8f-a1e2-c783b78a945b)" alt="ChatGPT Fluid Mosaic Model Simple" width="200" height="200">
+  <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/c1468988-4aa0-4c8f-a1e2-c783b78a945b" alt="ChatGPT Fluid Mosaic Model Simple" width="600" height="450">
 </div>
 
 Way better then that advanced version and mine. [ChatGPT 4]((https://openai.com/blog/chatgpt)) , developed by OpenAI, is an advanced artificial intelligence language model. It belongs to the GPT (Generative Pre-trained Transformer) series, where '4' denotes its iteration in the series. As a state-of-the-art AI, ChatGPT-4 is characterized by its deep learning algorithms, which are based on a transformer architecture. This allows the model to generate human-like text responses and engage in conversations by predicting subsequent words in a sequence. Now let’s not dive deep into AI art generators without learning about the history of AI art. 
