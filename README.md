@@ -10,7 +10,7 @@ To really impress people, including my mom, I always engaged in multiple hobbies
 
 
 <div align="center">
-  <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/cab69476-a207-4a8b-ad72-87b65fdbe39d" alt="9th Grade graphics" width="200" height="200">
+  <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/cab69476-a207-4a8b-ad72-87b65fdbe39d" alt="9th Grade graphics" width="450" height="600">
 </div>
 
 
