@@ -1,4 +1,4 @@
-#AI Art Creative Expression or Plagiarism?
+# AI Art Creative Expression or Plagiarism?
 
 As the daughter of a mathematics teacher, I have always been driven to excel academically and make my mother proud. Striving to be the best in my class, I dedicated myself to thoroughly understanding subjects and participating in competitions. Despite meeting expectations, I realized the importance of skills like critical thinking and problem-solving, which I admired in others. This recognition led to my fascination with artificial intelligence (AI), a rapidly growing field that enhances everyday life through computer-based intelligence. 
 
