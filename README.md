@@ -20,3 +20,4 @@ Way better, and way better than mine. ChatGPT 4 ChatGPT-4, developed by OpenAI, 
 
 kindly visit the following link for a deeper understanding of AI [history]([url](https://khadija-mahmoud.github.io/AI_Art_Timeline/)) 
 
+ ## [Blog_test_2](blog.2.test.md) 
