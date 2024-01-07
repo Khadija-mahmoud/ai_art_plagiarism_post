@@ -64,5 +64,23 @@ __Sources:__
 * __[Neil Chase Film](https://neilchasefilm.com/)__
 * __[ChatGPT4](https://openai.com/gpt-4)__
 
+## AI Art Generators Concerns 
+The issue of plagiarism in AI-generated art is a complex and evolving topic. AI art generators like DALL-E, Midjourney, and others, create artworks based on the vast amounts of data they have been trained on, which includes existing artworks and images. This raises several concerns and questions about originality, copyright, and artistic integrity:
+
+__1.	Training Data and Copyright:__ AI models are trained on large datasets that often include copyrighted artworks and images. When these models generate new artworks, they might produce pieces that are significantly influenced by or closely resemble existing copyrighted works. This raises questions about whether the AI-generated art constitutes a derivative work and if it infringes on the original artist's copyright.
+
+__2.	Originality and Creativity:__ There's a debate about the originality of AI-generated art. Since these artworks are created based on existing styles and images, it's unclear how much creative input is attributed to the AI versus the human user who inputs prompts. This blurs the lines between inspiration and plagiarism.
+
+__3.	Artist Consenty:__ In many cases, artists whose works were used to train these AI models did not give explicit consent for their artworks to be used in this manner. This raises ethical concerns about the use of their creative output without permission or compensation.
+
+__4.	Legal Framework:__ The current legal framework around copyright and intellectual property rights was not designed with AI-generated content in mind. This means there are many grey areas and uncharted territories when it comes to the legalities of AI-generated art, making it difficult to definitively label such works as plagiarism under the law.
+
+__5.	Attribution and Acknowledgement:__ Another issue is the lack of clear attribution in AI-generated art. Since these artworks are often a blend of styles and elements from various sources, it's challenging to acknowledge and credit the original creators.
+
+__6.	Potential for Abuse:__ There is a potential for abuse where individuals could use AI art generators to replicate the style of a specific artist without proper attribution or compensation, effectively creating counterfeit art.
+
+In conclusion, while AI art generators open up new possibilities in the realm of creative expression, they also bring forth significant challenges related to plagiarism and copyright. As the technology evolves, it's likely that legal and ethical guidelines will also need to be updated to address these concerns adequately.
+
+
 Thank you for tuning in the introduction to my blog, enter part 2 to dive deeper into plagiarism issues with AI Art
  ## [Blog_test_2](blog.2.test.md) 
