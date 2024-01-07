@@ -18,4 +18,5 @@ What a complex photo. Maybe too detailed for 9th grades. Let’s ask chatGPT4 to
 
 Way better, and way better than mine. ChatGPT 4 ChatGPT-4, developed by OpenAI, is an advanced artificial intelligence language model. It belongs to the GPT (Generative Pre-trained Transformer) series, where '4' denotes its iteration in the series. As a state-of-the-art AI, ChatGPT-4 is characterized by its deep learning algorithms, which are based on a transformer architecture. This allows the model to generate human-like text responses and engage in conversations by predicting subsequent words in a sequence. Now let’s not dive deep into AI art generators without learning about the history of AI art. 
 
+kindly visit the following link for a deeper understanding of AI [history]([url](https://khadija-mahmoud.github.io/AI_Art_Timeline/)) 
 
