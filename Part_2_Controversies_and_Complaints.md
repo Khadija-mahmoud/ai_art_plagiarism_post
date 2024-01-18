@@ -29,6 +29,21 @@ div align="center">
 When AI generates art, it doesn't create content from nothing; it requires input for output. Machine learning companies, like Stability AI, profit from high-quality media, depending on AI trained on specific datasets. These datasets, such as the LAION-5B, contain billions of images and texts, including copyrighted materials and private data, often collected without owners' consent. This includes personal artworks, photographs, and even images of individuals and their environments. The use of such datasets in commercial products raises legal and ethical issues. While initially intended for research, these databases have been commercialized, leading to products like Dream Studio and Stable Diffusion. This practice circumvents the need for licensing fees for using images, effectively exploiting artists' work without credit or compensation, leveraging a legal loophole. This situation presents a complex challenge regarding the ownership and compensation of intellectual property in the age of AI-generated content.
 
 
+## Activists 
+
+Some notable figures and groups have emerged in activism against AI-generated art, highlighting the concerns of traditional artists. Joyce Silva, an environmental artist, used Twitter to voice her opposition, creating a collection of anti-AI images that garnered significant attention. Her efforts reflect a broader sentiment among artists about the impacts of AI on their work and rights​​.
+
+Karla Ortiz, a well-known illustrator who has worked for Ubisoft and Marvel Studios, is another prominent figure in this movement. Along with cartoonist Sarah Andersen, Ortiz is part of a group of San Francisco artists taking legal action to address the unauthorized use of their styles and works by AI programs like Midjourney and Stable Diffusion. This lawsuit aims to reclaim copyright and consent for artists, a crucial issue as AI-generated art becomes more prevalent​​.
+
+The resistance to AI-generated art is not just legal but also technological. For instance, a team at the University of Chicago developed "Glaze," a software designed to protect artists' work from being mimicked by AI-art models. This tool acts as a digital shield, making it difficult for AI to analyze and replicate the protected art styles​​.
+
+Internationally renowned film director Guillermo del Toro has also voiced concerns over AI image generation, especially in the context of animation and art. His stance reflects a growing resistance worldwide to the unregulated use of AI in creative fields​​.
+
+These individuals and initiatives represent a broader movement among artists and creators to safeguard their rights and creative integrity in the face of rapidly evolving AI technologies.
+
+## People and Their Thoughts
+
+
 
 <div align="center">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/cab69476-a207-4a8b-ad72-87b65fdbe39d" alt="9th Grade graphics" width="600" height="450">
