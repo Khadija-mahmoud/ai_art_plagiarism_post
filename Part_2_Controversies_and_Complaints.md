@@ -45,16 +45,16 @@ These individuals and initiatives represent a broader movement among artists and
 
 
 
-# [MarkCooprArt](https://www.youtube.com/channel/UCxjAHc9teG5NdfvkQwMfpkw)
+### [MarkCooprArt](https://www.youtube.com/channel/UCxjAHc9teG5NdfvkQwMfpkw)
 <img width="567" alt="Screenshot 2024-01-18 193635" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/d8b219c1-66d0-4ce7-9ae8-21191d7c4cce">
 
-# [MarketingHarry](https://www.youtube.com/channel/UC8bbeohnLzmsGPklJCSFpRQ)
+### [MarketingHarry](https://www.youtube.com/channel/UC8bbeohnLzmsGPklJCSFpRQ)
 <img width="564" alt="Screenshot 2024-01-18 193614" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/1f3322f4-56cc-4c15-b8bb-7ae4b560a7be">
 
-# [nathannaelfong3781](https://www.youtube.com/channel/UCWvYiGMvzL--g0c4lbxRY8g)
+### [nathannaelfong3781](https://www.youtube.com/channel/UCWvYiGMvzL--g0c4lbxRY8g)
 <img width="634" alt="Screenshot 2024-01-18 194001" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/c6a96141-5223-4fce-9b3b-b7b351c7ae29">
 
-# [4XPEDITION](https://www.youtube.com/channel/UCr0N7SqU4tXoA3L1KoEQlkA)
+### [4XPEDITION](https://www.youtube.com/channel/UCr0N7SqU4tXoA3L1KoEQlkA)
 <img width="566" alt="Screenshot 2024-01-18 193818" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/5720e53c-ebc4-483f-b326-fcb0946c082f">
 
 ## Understanding the Debate
