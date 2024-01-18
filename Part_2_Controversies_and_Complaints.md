@@ -70,3 +70,10 @@ In essence, this debate centers on the definition of art, the role of the artist
 To see the other point of view on why AI Art is not plagiarizing and is important go to part 3 of my blog :) 
 
 ## [Click Here for part 3](Part_3)
+
+# Sources
+**- [AI Got Me Cancelled](https://www.youtube.com/watch?v=eh3o2_F4DCg&ab_channel=MichaelJanda)**
+**- [Why AI Artists are Fed Up](https://www.youtube.com/watch?v=5Viy3Cu3DLk&ab_channel=SamDoesArts)**
+**- [CNN:AI Art Ethics](https://www.cbc.ca/radio/asithappens/artificial-intelligence-ai-art-ethics-greg-rutkowski-1.6679466)**
+**- [ChatGPT4](https://openai.com/gpt-4)**
+
