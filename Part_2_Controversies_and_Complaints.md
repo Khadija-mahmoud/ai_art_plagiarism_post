@@ -31,19 +31,34 @@ When AI generates art, it doesn't create content from nothing; it requires input
 
 ## Activists 
 
-Some notable figures and groups have emerged in activism against AI-generated art, highlighting the concerns of traditional artists. Joyce Silva, an environmental artist, used Twitter to voice her opposition, creating a collection of anti-AI images that garnered significant attention. Her efforts reflect a broader sentiment among artists about the impacts of AI on their work and rights​​.
+Some notable figures and groups have emerged in activism against AI-generated art, highlighting the concerns of traditional artists. **Joyce Silva**, an environmental artist, used Twitter to voice her opposition, creating a collection of anti-AI images that garnered significant attention. Her efforts reflect a broader sentiment among artists about the impacts of AI on their work and rights​​.
 
-Karla Ortiz, a well-known illustrator who has worked for Ubisoft and Marvel Studios, is another prominent figure in this movement. Along with cartoonist Sarah Andersen, Ortiz is part of a group of San Francisco artists taking legal action to address the unauthorized use of their styles and works by AI programs like Midjourney and Stable Diffusion. This lawsuit aims to reclaim copyright and consent for artists, a crucial issue as AI-generated art becomes more prevalent​​.
+**Karla Ortiz**, a well-known illustrator who has worked for Ubisoft and Marvel Studios, is another prominent figure in this movement. Along with cartoonist **Sarah Andersen**, Ortiz is part of a group of San Francisco artists taking legal action to address the unauthorized use of their styles and works by AI programs like Midjourney and Stable Diffusion. This lawsuit aims to reclaim copyright and consent for artists, a crucial issue as AI-generated art becomes more prevalent​​.
 
 The resistance to AI-generated art is not just legal but also technological. For instance, a team at the University of Chicago developed "Glaze," a software designed to protect artists' work from being mimicked by AI-art models. This tool acts as a digital shield, making it difficult for AI to analyze and replicate the protected art styles​​.
 
-Internationally renowned film director Guillermo del Toro has also voiced concerns over AI image generation, especially in the context of animation and art. His stance reflects a growing resistance worldwide to the unregulated use of AI in creative fields​​.
+Internationally renowned film director **Guillermo del Toro** has also voiced concerns over AI image generation, especially in the context of animation and art. His stance reflects a growing resistance worldwide to the unregulated use of AI in creative fields​​.
 
 These individuals and initiatives represent a broader movement among artists and creators to safeguard their rights and creative integrity in the face of rapidly evolving AI technologies.
 
 ## People and Their Thoughts
 
 
+
+# x
+<img width="567" alt="Screenshot 2024-01-18 193635" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/d8b219c1-66d0-4ce7-9ae8-21191d7c4cce">
+
+# x
+<img width="564" alt="Screenshot 2024-01-18 193614" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/1f3322f4-56cc-4c15-b8bb-7ae4b560a7be">
+
+# d
+<img width="634" alt="Screenshot 2024-01-18 194001" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/c6a96141-5223-4fce-9b3b-b7b351c7ae29">
+
+# g
+<img width="566" alt="Screenshot 2024-01-18 193818" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/5720e53c-ebc4-483f-b326-fcb0946c082f">
+
+# m
+<img width="3" alt="Screenshot 2024-01-18 193759" src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/80971955-2ca8-44c4-9609-47caca997eb3">
 
 <div align="center">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/cab69476-a207-4a8b-ad72-87b65fdbe39d" alt="9th Grade graphics" width="600" height="450">
