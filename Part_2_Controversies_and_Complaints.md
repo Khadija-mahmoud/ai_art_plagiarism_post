@@ -25,6 +25,8 @@ div align="center">
 
 **Sam Yang form SamDoesArt** has released a youtube video **([Why Artists are Fed Up with AI Art?](https://www.youtube.com/watch?v=5Viy3Cu3DLk&ab_channel=SamDoesArtsl)** explaining his concerns and point of view on this situation. He quoted “ AI art is leaking into the mainstream in the form of stable diffusion and Lensa, but there are serious ethical concerns with this unregulated tech. I'm NOT anti AI, in fact, I believe AI can be of immense benefit to us in the future. But the ethics of AI in its current state MUST be talked about".
 
+**The Issue**
+When AI generates art, it doesn't create content from nothing; it requires input for output. Machine learning companies, like Stability AI, profit from high-quality media, depending on AI trained on specific datasets. These datasets, such as the LAION-5B, contain billions of images and texts, including copyrighted materials and private data, often collected without owners' consent. This includes personal artworks, photographs, and even images of individuals and their environments. The use of such datasets in commercial products raises legal and ethical issues. While initially intended for research, these databases have been commercialized, leading to products like Dream Studio and Stable Diffusion. This practice circumvents the need for licensing fees for using images, effectively exploiting artists' work without credit or compensation, leveraging a legal loophole. This situation presents a complex challenge regarding the ownership and compensation of intellectual property in the age of AI-generated content.
 
 
 
