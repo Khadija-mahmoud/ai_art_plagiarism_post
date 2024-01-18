@@ -18,7 +18,7 @@ The rise of artificial intelligence (AI) in art has sparked debates as concerns 
 
 **[Obvious](https://obvious-art.com/page-about-obvious/) (Hugo Caselles-Dupré, Pierre Fautrel, and Gauthier Vernier)**: The art collective Obvious gained attention for creating an AI-generated artwork titled "Portrait of Edmond de Belamy." While they were creators of AI art themselves, they expressed concerns when others used their code to create similar AI-generated portraits without proper credit or authorization.
 
-div align="center">
+<div align="center">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/b8a25cef-d1ee-4545-8f61-00add2c85bc8" alt="9th Grade graphics" width="600" height="450">
 </div>
 
