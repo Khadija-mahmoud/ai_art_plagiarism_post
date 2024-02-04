@@ -34,3 +34,6 @@ The role of technological advancements cannot be overstated, as they will contin
 
 Thank you for reading my first blog, wish it was helpful and knowledgable. Have a nice 2024 and hope to see you reading my upcoming blogs
 ### Thank you <3
+
+## **[Previous Part](Part_3.md)**
+## **[Part 1](README.md)
