@@ -62,3 +62,10 @@ The integration of AI into the art world presents a complex blend of innovation 
 
 ## **[Part 4: Conclusion and Future Directions](Part_4.md)**
 ## **[Previous Part](Part_2_Controversies_and_Complaints.md)**
+
+# Sources
+### **[Artnet](https://news.artnet.com/art-world/class-action-lawsuit-ai-generators-deviantart-midjourney-stable-diffusion-2246770)**
+### **[Mashable](https://mashable.com/article/netflix-ai-art-anime-boy-dog)**
+### **[The Verge](https://www.theverge.com/2023/8/18/23837273/generative-ai-advertising-oreos-cadbury-watermarking)**
+### **[ChatGPT4](https://openai.com/gpt-4)**
+### **[Quora](https://www.quora.com/As-AI-art-generators-become-more-prevalent-will-traditional-art-created-by-human-hands-using-pencil-or-paint-become-more-valuable)**
