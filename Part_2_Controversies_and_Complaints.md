@@ -1,4 +1,4 @@
-### Part 2: Controversies and Complaints
+# Part 2: Controversies and Complaints
 
 The rise of artificial intelligence (AI) in art has sparked debates as concerns emerge about potential plagiarism. Some claim that AI algorithms, meant to create unique artworks, may unintentionally copy the styles of established artists. Additionally, there are accusations that certain AI developers deliberately program algorithms to imitate specific artists, raising ethical questions about the boundaries between inspiration and imitation. This situation prompts a critical examination of the challenges and implications of AI art potentially engaging in plagiarism within the contemporary art scene. Recently many artists have been throwing complains about seeing their work without creating it, for example:
 
@@ -69,7 +69,7 @@ In essence, this debate centers on the definition of art, the role of the artist
 
 To see the other point of view on why AI Art is not plagiarizing and is important go to part 3 of my blog :) 
 
-## [Click Here for part 3](Part_3)
+## [Click Here for Part 3: The Shifting Legal Landscape of AI-Generated Art](Part_3)
 
 # Sources
 **- [AI Got Me Cancelled](https://www.youtube.com/watch?v=eh3o2_F4DCg&ab_channel=MichaelJanda)**
