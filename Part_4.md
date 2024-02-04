@@ -36,4 +36,8 @@ Thank you for reading my first blog, wish it was helpful and knowledgable. Have 
 ### Thank you <3
 
 ## **[Previous Part](Part_3.md)**
-## **[Part 1](README.md)
+## **[Part 1: AI Art Creative Expression or Plagiarism?](README.md)**
+
+# Sources
+### **[IMPAKTER](https://impakter.com/from-algorithms-to-masterpieces-is-ai-art-the-inevitable-future-of-creativity/#:~:text=According%20to%20Gartner%20(2022)%2C,be%20used%20more%20and%20more.)**
+### **[ChatGPT4](https://openai.com/gpt-4)
