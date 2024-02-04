@@ -81,7 +81,7 @@ In conclusion, while AI art generators open up new possibilities in the realm of
 
 Thank you for tuning in the introduction to my blog, enter part 2 to dive deeper into plagiarism issues with AI Art
 
-## [Part 2: Controversies and Complaints](Part_2_Controversies_and_Complaints.md) 
+### [Part 2: Controversies and Complaints](Part_2_Controversies_and_Complaints.md) 
 
 
 __Sources:__
