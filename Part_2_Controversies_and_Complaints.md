@@ -69,8 +69,8 @@ In essence, this debate centers on the definition of art, the role of the artist
 
 To see the other point of view on why AI Art is not plagiarizing and is important go to part 3 of my blog :) 
 
-## [Click Here for Part 3: The Shifting Legal Landscape of AI-Generated Art](Part_3)
-## [Click here to go back](README.md)
+### [Click Here for Part 3: The Shifting Legal Landscape of AI-Generated Art](Part_3)
+### [Click here to go back](README.md)
 
 # Sources
 **[AI Got Me Cancelled](https://www.youtube.com/watch?v=eh3o2_F4DCg&ab_channel=MichaelJanda)**
