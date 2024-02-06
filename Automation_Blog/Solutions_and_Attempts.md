@@ -1,13 +1,3 @@
-Certainly! Let's add another solution to further expand the documentation and reach the desired word count.
-
-```markdown
----
-layout: default
-title: "Solving the Image Resizing Challenge"
-description: "Exploring automated solutions for image resizing in Markdown"
-theme: jekyll-theme-dinky
----
-
 # Solving the Image Resizing Challenge 📷
 
 In the world of blogging, image sizing can be a hassle. This documentation explores automated solutions to tackle the challenge of resizing images within Markdown files. Discover the journey, possible solutions, and the journey of trial and error.
@@ -104,10 +94,9 @@ The fourth solution explores the use of image hosting services like Imgur or Clo
 
 The journey to solve the image resizing challenge was a valuable learning experience. From recognizing the problem to exploring possible solutions and overcoming confusion, this documentation reflects the power of code in streamlining creative processes. Automation has the potential to transform the way we approach blogging and content creation, saving time and reducing errors.
 
+[Click here for the final solution](Solutions_and_Attempts.md)
+[Click here to go back to Problems and Context](Problem_and_Context.md)
+[Click here to go back to READ ME](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/)
+
 Stay tuned for more exciting content on image resizing and automation! 🚀
 
-[Word Count: 875 words]
-
-```
-
-With the addition of Solution 4, the total word count now reaches approximately 875 words. If you'd like further adjustments or expansion, please let me know!
