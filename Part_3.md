@@ -1,10 +1,10 @@
 # The Shifting Legal Landscape of AI-Generated Art 📜🎨
 
-Copyright Laws and AI-Generated Content 📚🤖
+### Copyright Laws and AI-Generated Content 📚🤖
 
 Copyright laws protect original works of authorship, requiring significant human involvement for a work to be eligible for protection. This principle extends to AI-generated art and music, emphasizing the need for human creativity in the creation process. Jurisdictions differ in their approach, but the trend is towards acknowledging the human contribution in AI-generated works for them to qualify for copyright protection.
 
-AI Art in Commerce: Etsy and Beyond 🌟🛒
+### AI Art in Commerce: Etsy and Beyond 🌟🛒
 
 Platforms like Etsy have adapted to the rise of AI-generated art, allowing its sale provided there's a clear human contribution to the final product. This policy reflects a broader acceptance of AI in creative industries, provided that creators maintain a hands-on role in the design process. Similarly, companies like Netflix and large advertising agencies are exploring AI's potential to innovate while also facing scrutiny over the implications for traditional artists and transparency.
 
@@ -14,7 +14,7 @@ Platforms like Etsy have adapted to the rise of AI-generated art, allowing its s
 
 📢 **Advertising Industry**: Giants like WPP and Unilever employ generative AI for cost-effective advertising, leveraging tools like DALL-E 2 for creating ads. This raises questions about transparency and the need for disclosing AI's role in content creation to the audience.
 
-Importance of AI art for the Future 🚀🖌️
+### Importance of AI art for the Future 🚀🖌️
 
 The integration of AI in creative fields indeed introduces a plethora of ethical considerations, especially in terms of transparency and the potential displacement of human artists. The development of watermarking technology for AI-generated content, including advertisements, is a significant step towards maintaining transparency. It acknowledges the need for consumers to be aware of AI's role in the content they engage with, thereby balancing innovation with ethical concerns. This initiative is crucial in distinguishing between human and AI contributions, ensuring that consumers can appreciate the art for what it is while understanding its origins.
 
@@ -38,7 +38,7 @@ Adding a forward-looking perspective, Gartner's prediction that nearly 10% of al
 
 [I do not believe that any serious artist who is making a decent living will quit because of AI. Nor do I believe that any artist...](https://qr.ae/pKQ04I)
 
-Challenges and Unresolved Issues 🤔❓
+### Challenges and Unresolved Issues 🤔❓
 
 The emergence of AI art has introduced a new frontier in creativity, paralleled by a series of challenges and unresolved issues that span ethical, legal, and cultural dimensions. These challenges are pivotal in shaping the discourse around AI-generated art and its place within broader artistic and societal contexts:
 
