@@ -1,0 +1,1 @@
+Cost-Benefit-Analysis: How much time and resources did your automation take and how much time and resources are you saving with your automation within the next 5 years? Would you argue that your automation is economically beneficial?
