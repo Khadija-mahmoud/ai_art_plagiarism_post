@@ -6,9 +6,11 @@ The rise of artificial intelligence (AI) in art has sparked debates as concerns 
 **[Greg Rutkowski](https://www.artstation.com/rutkowski)**, a digital artist from Poland, employs classical painting techniques to craft enchanting fantasy landscapes. Renowned for his illustrations featured in prominent games like Sony's Horizon Forbidden West, Ubisoft's Anno, Dungeons & Dragons, and Magic: The Gathering, Rutkowski has swiftly garnered acclaim in the emerging realm of AI-generated images through text-to-image algorithms. He was interviewed by BBC **([AI: Digital artist's work copied more times than Picasso](https://www.bbc.com/news/uk-wales-66099850)** in which he states his concerns on AI Art and about his work getting plagiarized. 
 
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/0d16af85-a89a-4696-9aee-2b18fec4eba7" alt="Greg Rutkowski" width="600" height="350">
 </div>
+<p>Your text here.</p>
+
 
 
 
