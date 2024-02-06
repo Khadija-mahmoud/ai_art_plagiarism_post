@@ -41,4 +41,5 @@ To streamline the process further, I modified the script to overwrite the existi
 In conclusion, my exploration of plagiarism in AI-generated art led me to discover a valuable lesson in problem-solving through code. The journey from manually adjusting image sizes to developing an automated solution highlighted the potential for technology to streamline creative endeavors. It reinforced the notion that with the right tools and a bit of coding, we can overcome challenges and make our blogging experiences more efficient and enjoyable. This GitHub Pages-style documentation serves as a testament to the power of automation in simplifying complex tasks and enhancing the creative process. 🌟
 
 ### [Click here to read about my solutions and attempts](Automation_Blog/Solutions_and_Attempts.md)
+### [Click here to go back to READ ME](README.md)
 *Stay tuned for more exciting content on AI-generated art and automation!* 🤖🎨
