@@ -35,7 +35,7 @@ The role of technological advancements cannot be overstated, as they will contin
 Thank you for reading my first blog, wish it was helpful and knowledgeable. Have a nice 2024 and hope to see you reading my upcoming blogs ❤️
 
 ### **[Previous Part](Part_3.md)**
-### **[Part 1: AI Art Creative Expression or Plagiarism?](README.md)**
+### **[Go back to READ ME](README.md)**
 
 # Sources 📖🔍
 🌐 **[IMPAKTER](https://impakter.com/from-algorithms-to-masterpieces-is-ai-art-the-inevitable-future-of-creativity/#:~:text=According%20to%20Gartner%20(2022)%2C,be%20used%20more%20and%20more.)**
