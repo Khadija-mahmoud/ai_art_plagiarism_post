@@ -17,4 +17,4 @@ I've also written a blog about developing an automation solution for resizing im
 
 If you have any questions or just want to chat, you can reach out to me at [khadija.mahmoud10@outlook.com](mailto:khadija.mahmoud10@outlook.com). Let's connect! 📧🤝
 
-Happy coding and creating! 🚀🎉
+### Happy coding and creating! 🚀🎉
