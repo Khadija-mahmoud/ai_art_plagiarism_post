@@ -6,7 +6,7 @@ I'm Khadija Mahmoud, a first-semester student studying Health Informatics. 🏥 
 
 ### AI Art vs. Traditional Art: Does AI Plagiarize Artists?
 
-In [Part One](Part_1.md), I delve into the fascinating world of AI-generated art and explore whether it plagiarizes the work of traditional artists. 🤖🎨
+In [my Blog](Blog_context.md), I delve into the fascinating world of AI-generated art and explore whether it plagiarizes the work of traditional artists. 🤖🎨
 
 ### Image Resizing Automation
 
