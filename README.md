@@ -10,7 +10,7 @@ In [Part One](Part_1.md), I delve into the fascinating world of AI-generated art
 
 ### Image Resizing Automation
 
-I've also written a blog about developing an automation solution for resizing images on my [Blog](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/). Click [here](Automation_Blog/Problem_and_Context.md) to read it and learn how to automate image resizing. 🖼️✨
+I've also written a blog about developing an automation solution for resizing images on my [Blog](Part_1.md). Click [here](Automation_Blog/Problem_and_Context.md) to read it and learn how to automate image resizing. 🖼️✨
 
 
 ## 📫 Contact
