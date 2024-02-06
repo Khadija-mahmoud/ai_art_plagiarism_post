@@ -11,23 +11,22 @@ The rise of artificial intelligence (AI) in art has sparked debates as concerns 
 **Greg Rutkowski**, a digital artist from Poland, employs classical painting techniques to craft enchanting fantasy landscapes. Renowned for his illustrations featured in prominent games like Sony's Horizon Forbidden West, Ubisoft's Anno, Dungeons & Dragons, and Magic: The Gathering, Rutkowski has swiftly garnered acclaim in the emerging realm of AI-generated images through text-to-image algorithms. He was interviewed by BBC **([AI: Digital artist's work copied more times than Picasso](https://www.bbc.com/news/uk-wales-66099850)** in which he states his concerns on AI Art and about his work getting plagiarized. 
 
 
-
-
-**[Beeple (Mike Winkelmann)](https://www.beeple-crap.com/))**: Beeple is a digital artist who raised concerns about the unauthorized use of his digital artwork in the creation of non-fungible tokens (NFTs) and AI-generated art. His work, "Everydays: The First 5000 Days," became particularly notable in the NFT space, and he has spoken out against instances where his art was used without permission in AI-generated projects.
-
-
+## [Beeple (Mike Winkelmann)](https://www.beeple-crap.com/))
 <div align="center">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/465aafd1-122a-4931-a65c-1772327690ef" alt="9th Grade graphics" width="600" height="450">
 </div>
 
+**Beeple** is a digital artist who raised concerns about the unauthorized use of his digital artwork in the creation of non-fungible tokens (NFTs) and AI-generated art. His work, "Everydays: The First 5000 Days," became particularly notable in the NFT space, and he has spoken out against instances where his art was used without permission in AI-generated projects.
 
 
 
-**[Obvious](https://obvious-art.com/page-about-obvious/) (Hugo Caselles-Dupré, Pierre Fautrel, and Gauthier Vernier)**: The art collective Obvious gained attention for creating an AI-generated artwork titled "Portrait of Edmond de Belamy." While they were creators of AI art themselves, they expressed concerns when others used their code to create similar AI-generated portraits without proper credit or authorization.
+## [Obvious](https://obvious-art.com/page-about-obvious/) (Hugo Caselles-Dupré, Pierre Fautrel, and Gauthier Vernier).
 
 <div align="center">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/b8a25cef-d1ee-4545-8f61-00add2c85bc8" alt="9th Grade graphics" width="600" height="350">
 </div>
+
+The art collective **Obvious** gained attention for creating an AI-generated artwork titled "Portrait of Edmond de Belamy." While they were creators of AI art themselves, they expressed concerns when others used their code to create similar AI-generated portraits without proper credit or authorization.
 
 
 **Sam Yang form SamDoesArt** has released a youtube video **([Why Artists are Fed Up with AI Art?](https://www.youtube.com/watch?v=5Viy3Cu3DLk&ab_channel=SamDoesArtsl)** explaining his concerns and point of view on this situation. He quoted “ AI art is leaking into the mainstream in the form of stable diffusion and Lensa, but there are serious ethical concerns with this unregulated tech. I'm NOT anti AI, in fact, I believe AI can be of immense benefit to us in the future. But the ethics of AI in its current state MUST be talked about".
