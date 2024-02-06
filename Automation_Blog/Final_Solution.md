@@ -124,3 +124,7 @@ In the quest to solve the image resizing challenge, we've explored two Python fu
 Whether you choose to modify image tags directly or programmatically resize images, automation has the potential to transform your blogging experience, making it more efficient and error-free.
 
 So, as you continue your journey in content creation, remember that code can be your ally in solving challenges, even if it means dealing with a bit of clumsiness along the way. Happy blogging!
+
+### [Click here to go to benefits](Benefits.md)
+### [Click here to go back to the solutions and attempts](Solutions_and_Attempts.md)
+### [Click here to go back to READ ME](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/)
