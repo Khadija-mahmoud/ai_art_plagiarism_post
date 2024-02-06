@@ -2,13 +2,13 @@
 
 The rise of artificial intelligence (AI) in art has sparked debates as concerns emerge about potential plagiarism. Some claim that AI algorithms, meant to create unique artworks, may unintentionally copy the styles of established artists. Additionally, there are accusations that certain AI developers deliberately program algorithms to imitate specific artists, raising ethical questions about the boundaries between inspiration and imitation. This situation prompts a critical examination of the challenges and implications of AI art potentially engaging in plagiarism within the contemporary art scene. Recently many artists have been throwing complains about seeing their work without creating it, for example:
 
-
-**[Greg Rutkowski](https://www.artstation.com/rutkowski)**, a digital artist from Poland, employs classical painting techniques to craft enchanting fantasy landscapes. Renowned for his illustrations featured in prominent games like Sony's Horizon Forbidden West, Ubisoft's Anno, Dungeons & Dragons, and Magic: The Gathering, Rutkowski has swiftly garnered acclaim in the emerging realm of AI-generated images through text-to-image algorithms. He was interviewed by BBC **([AI: Digital artist's work copied more times than Picasso](https://www.bbc.com/news/uk-wales-66099850)** in which he states his concerns on AI Art and about his work getting plagiarized. 
-
+   ## [Greg Rutkowski](https://www.artstation.com/rutkowski)
 
 <div align="center">
   <img src="https://github.com/Khadija-mahmoud/ai_art_plagiarism_post/assets/150390985/0d16af85-a89a-4696-9aee-2b18fec4eba7" alt="9th Grade graphics" width="600" height="350">
 </div>
+
+**Greg Rutkowski**, a digital artist from Poland, employs classical painting techniques to craft enchanting fantasy landscapes. Renowned for his illustrations featured in prominent games like Sony's Horizon Forbidden West, Ubisoft's Anno, Dungeons & Dragons, and Magic: The Gathering, Rutkowski has swiftly garnered acclaim in the emerging realm of AI-generated images through text-to-image algorithms. He was interviewed by BBC **([AI: Digital artist's work copied more times than Picasso](https://www.bbc.com/news/uk-wales-66099850)** in which he states his concerns on AI Art and about his work getting plagiarized. 
 
 
 
