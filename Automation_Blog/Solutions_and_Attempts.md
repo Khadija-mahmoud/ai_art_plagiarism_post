@@ -94,9 +94,9 @@ The fourth solution explores the use of image hosting services like Imgur or Clo
 
 The journey to solve the image resizing challenge was a valuable learning experience. From recognizing the problem to exploring possible solutions and overcoming confusion, this documentation reflects the power of code in streamlining creative processes. Automation has the potential to transform the way we approach blogging and content creation, saving time and reducing errors.
 
-[Click here for the final solution](Solutions_and_Attempts.md)
-[Click here to go back to Problems and Context](Problem_and_Context.md)
-[Click here to go back to READ ME](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/)
+### [Click here for the final solution](Solutions_and_Attempts.md)
+### [Click here to go back to Problems and Context](Problem_and_Context.md)
+### [Click here to go back to READ ME](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/)
 
 Stay tuned for more exciting content on image resizing and automation! 🚀
 
