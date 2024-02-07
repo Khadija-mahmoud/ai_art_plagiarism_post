@@ -128,3 +128,8 @@ So, as you continue your journey in content creation, remember that code can be 
 ### [Click here to go to benefits](Benefits.md)
 ### [Click here to go back to the solutions and attempts](Solutions_and_Attempts.md)
 ### [Click here to go back to READ ME](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/)
+
+## Sources
+### [Stack Overflow](https://stackoverflow.com/)
+### [Medium](https://medium.com/)
+### [ChatGPT4](https://openai.com/gpt-4)
