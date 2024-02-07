@@ -101,5 +101,5 @@ The journey to solve the image resizing challenge was a valuable learning experi
 Stay tuned for more exciting content on image resizing and automation! 🚀
 
 ## Sources
-[Stack Overflow](https://stackoverflow.com/)
-[Medium](https://medium.com/)
+### [Stack Overflow](https://stackoverflow.com/)
+### [Medium](https://medium.com/)
