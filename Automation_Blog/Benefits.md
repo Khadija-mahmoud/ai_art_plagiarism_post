@@ -82,3 +82,8 @@ As we navigate the landscape of content creation, embracing automation is not ju
 
 ### [Click here to go back to the final solution](Final_Solution.md)
 ### [Click here to go to READ ME](https://khadija-mahmoud.github.io/ai_art_plagiarism_post/)
+
+## Sources
+### [Stack Overflow](https://stackoverflow.com/)
+### [Medium](https://medium.com/)
+### [ChatGPT4](https://openai.com/gpt-4)
