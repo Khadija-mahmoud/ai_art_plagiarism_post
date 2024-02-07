@@ -103,3 +103,4 @@ Stay tuned for more exciting content on image resizing and automation! 🚀
 ## Sources
 ### [Stack Overflow](https://stackoverflow.com/)
 ### [Medium](https://medium.com/)
+### [ChatGPT4](https://openai.com/gpt-4)
