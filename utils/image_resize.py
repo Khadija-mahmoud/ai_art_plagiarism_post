@@ -1,10 +1,11 @@
+#import dependencies
 import os
 import re
 
 from PIL import Image
 
 def modify_image_tags_in_markdown(input_md_file, output_md_file, desired_width=600):
-    # Read the Markdown file
+    # Read the Markdown file  # Validate input file paths
     with open(input_md_file, 'r', encoding='utf-8') as md_file:
         markdown_content = md_file.read()
 
